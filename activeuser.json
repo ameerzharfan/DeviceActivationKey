@@ -26,5 +26,12 @@
         "password": "ShahirPipit2026@#",
         "expirydate": "13-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fdede594e350c318",
+        "username": "Mamu",
+        "password": "MamuPipit2026@#",
+        "expirydate": "13-06-2026",
+        "Allowoffline": false
     }
 ]
